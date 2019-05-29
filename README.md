@@ -4,6 +4,6 @@
 
 
 ## Instructions
-- install virtual Environments:
+- pip install virtualenv
 - python3 -m venv venv
-- pip instal Django 2.2
+- pip install Django == 2.2
